@@ -38,3 +38,15 @@ git clone https://github.com/thehackingprotocol/Dead-Signal-.git
 cd Dead-Signal-
 pip install -r requirements.txt
 python deadsignal.py
+
+
+
+
+🛡 OPERATED BY:
+🔺 THE HACKING PROTOCOL
+DEAD SIGNAL is an official subsystem of the elite digital suite:
+🕶 "THE BLACKOUT ENGINE"
+
+Built under restriction.  
+Recompiled under silence.  
+Now realigned under scope.
